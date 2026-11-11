@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title desc">
+<title id="title">001 — Orbit without center</title><desc id="desc">A rust disk crossing blue rings on a pale field. An original numbered vector study from The Third Caption.</desc>
+<rect width="800" height="1000" fill="#f0e7d8"/>
+<g opacity=".20" stroke="#173d40" stroke-width="2"><path d="M80 188H720 M80 812H720"/><path d="M120 150V850 M680 150V850"/></g>
+<svg x="0" y="0" width="800" height="1000" viewBox="0 0 800 1000"><defs><clipPath id="frame"><rect x="80" y="150" width="640" height="670"/></clipPath></defs><g clip-path="url(#frame)"><circle cx="408" cy="512" r="240" fill="none" stroke="#173d40" stroke-width="100"/><circle cx="408" cy="512" r="143" fill="#88a9a0"/><circle cx="304" cy="438" r="158" fill="#d66c4e" style="mix-blend-mode:multiply"/><path d="M103 674C245 550 514 800 713 411" fill="none" stroke="#f0e7d8" stroke-width="19"/></g></svg>
+<text x="80" y="97" font-family="Arial,sans-serif" font-size="17" letter-spacing="3" font-weight="700" fill="#173d40">THE THIRD CAPTION / STUDIES</text>
+<text x="716" y="98" text-anchor="end" font-family="Georgia,serif" font-size="35" fill="#d66c4e">001</text>
+<path d="M80 850H720" stroke="#173d40" stroke-width="2"/>
+<text x="80" y="896" font-family="Georgia,serif" font-size="32" fill="#173d40">Orbit without center</text>
+<text x="80" y="935" font-family="Arial,sans-serif" font-size="15" fill="#173d40" letter-spacing="2">ORIGINAL VECTOR STUDY · 2026</text>
+</svg>

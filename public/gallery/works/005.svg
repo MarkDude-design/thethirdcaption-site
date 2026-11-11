@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title desc">
+<title id="title">005 — Borrowed window</title><desc id="desc">Four nested frames, a slit of orange, and a green disk. An original numbered vector study from The Third Caption.</desc>
+<rect width="800" height="1000" fill="#f4ebdf"/>
+<g opacity=".20" stroke="#244541" stroke-width="2"><path d="M80 188H720 M80 812H720"/><path d="M120 150V850 M680 150V850"/></g>
+<svg x="0" y="0" width="800" height="1000" viewBox="0 0 800 1000"><defs><clipPath id="frame"><rect x="80" y="150" width="640" height="670"/></clipPath></defs><g clip-path="url(#frame)"><g fill="none" stroke="#244541"><rect x="130" y="239" width="540" height="504" rx="0" stroke-width="17"/><rect x="176" y="291" width="448" height="400" rx="10" stroke-width="15"/><rect x="222" y="343" width="356" height="296" rx="20" stroke-width="13"/><rect x="268" y="395" width="264" height="192" rx="30" stroke-width="11"/></g><rect x="414" y="240" width="42" height="503" fill="#dd7545"/><circle cx="390" cy="468" r="84" fill="#acc0ac"/></g></svg>
+<text x="80" y="97" font-family="Arial,sans-serif" font-size="17" letter-spacing="3" font-weight="700" fill="#244541">THE THIRD CAPTION / STUDIES</text>
+<text x="716" y="98" text-anchor="end" font-family="Georgia,serif" font-size="35" fill="#dd7545">005</text>
+<path d="M80 850H720" stroke="#244541" stroke-width="2"/>
+<text x="80" y="896" font-family="Georgia,serif" font-size="32" fill="#244541">Borrowed window</text>
+<text x="80" y="935" font-family="Arial,sans-serif" font-size="15" fill="#244541" letter-spacing="2">ORIGINAL VECTOR STUDY · 2026</text>
+</svg>

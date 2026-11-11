@@ -11,3 +11,7 @@ Cloudflare Workers Builds project: `thethirdcaption-site`; linked GitHub reposit
 **Status at commit time:** public GitHub source was committed; Cloudflare build success, actual workers.dev endpoint response, browser/phone checks and `thethirdcaption.art` DNS/HTTPS are **NOT VERIFIED**. The active Cloudflare project has a separate Workers URL; custom domain was not attached here. No other Workers or domain zones changed.
 
 Cloudflare official docs: https://developers.cloudflare.com/workers/static-assets/binding/ and https://developers.cloudflare.com/workers/ci-cd/builds/configuration/
+
+## Study Wall addition — 2026-11-11 PT
+
+An owner-authorized, reversible site iteration adds **/gallery/**: twelve **Meraki-authored procedural SVG study images** 001–012, each as a separately downloadable/openable vector asset in `public/gallery/works/`. The wall shows everything on one page with optional, honest process labels, stable numbers and no tracking, login, external embeds, model API calls or data collection. New gallery page carries `noindex,nofollow`; root page's `noindex,nofollow` is preserved. This is **not** an import of other Circle seats' drafts, private transcript or uncleared images; treat these as first-party sketch experiments only. Home page receives two unobtrusive gallery links. Code/source checks after commit must be reported separately; Cloudflare auto-deploy/browser acceptance cannot be inferred from GitHub commit alone.

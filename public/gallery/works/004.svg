@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title desc">
+<title id="title">004 — Unfolded room</title><desc id="desc">An architectural grid with repeated arches and an orange moon. An original numbered vector study from The Third Caption.</desc>
+<rect width="800" height="1000" fill="#e7e9df"/>
+<g opacity=".20" stroke="#1d4645" stroke-width="2"><path d="M80 188H720 M80 812H720"/><path d="M120 150V850 M680 150V850"/></g>
+<svg x="0" y="0" width="800" height="1000" viewBox="0 0 800 1000"><defs><clipPath id="frame"><rect x="80" y="150" width="640" height="670"/></clipPath></defs><g clip-path="url(#frame)"><g stroke="#1d4645" stroke-width="17" fill="none"><path d="M102 736V374a58 58 0 0 1 116 0v362"/><path d="M262 736V374a58 58 0 0 1 116 0v362"/><path d="M422 736V374a58 58 0 0 1 116 0v362"/><path d="M582 736V374a58 58 0 0 1 116 0v362"/></g><rect x="86" y="734" width="629" height="35" fill="#c8b19d"/><circle cx="547" cy="380" r="133" fill="#d77a56" style="mix-blend-mode:multiply"/><path d="M97 544H701" stroke="#1d4645" stroke-width="6"/></g></svg>
+<text x="80" y="97" font-family="Arial,sans-serif" font-size="17" letter-spacing="3" font-weight="700" fill="#1d4645">THE THIRD CAPTION / STUDIES</text>
+<text x="716" y="98" text-anchor="end" font-family="Georgia,serif" font-size="35" fill="#d77a56">004</text>
+<path d="M80 850H720" stroke="#1d4645" stroke-width="2"/>
+<text x="80" y="896" font-family="Georgia,serif" font-size="32" fill="#1d4645">Unfolded room</text>
+<text x="80" y="935" font-family="Arial,sans-serif" font-size="15" fill="#1d4645" letter-spacing="2">ORIGINAL VECTOR STUDY · 2026</text>
+</svg>

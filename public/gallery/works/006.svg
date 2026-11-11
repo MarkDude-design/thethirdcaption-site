@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title desc">
+<title id="title">006 — Low tide</title><desc id="desc">Layered waves rising in mint, teal, and pale coral. An original numbered vector study from The Third Caption.</desc>
+<rect width="800" height="1000" fill="#f6eada"/>
+<g opacity=".20" stroke="#1c5559" stroke-width="2"><path d="M80 188H720 M80 812H720"/><path d="M120 150V850 M680 150V850"/></g>
+<svg x="0" y="0" width="800" height="1000" viewBox="0 0 800 1000"><defs><clipPath id="frame"><rect x="80" y="150" width="640" height="670"/></clipPath></defs><g clip-path="url(#frame)"><path d="M-5 350 C166 210 301 520 470 335S709 333 809 434V1000H0Z" fill="#9ebcaa" opacity=".94"/><path d="M-5 451 C166 299 301 593 470 433S709 405 809 510V1000H0Z" fill="#1c5559" opacity=".94"/><path d="M-5 552 C166 388 301 666 470 531S709 477 809 586V1000H0Z" fill="#c06b52" opacity=".94"/><path d="M-5 653 C166 477 301 739 470 629S709 549 809 662V1000H0Z" fill="#9ebcaa" opacity="1"/><path d="M-5 754 C166 566 301 812 470 727S709 621 809 738V1000H0Z" fill="#1c5559" opacity="1"/></g></svg>
+<text x="80" y="97" font-family="Arial,sans-serif" font-size="17" letter-spacing="3" font-weight="700" fill="#1c5559">THE THIRD CAPTION / STUDIES</text>
+<text x="716" y="98" text-anchor="end" font-family="Georgia,serif" font-size="35" fill="#c06b52">006</text>
+<path d="M80 850H720" stroke="#1c5559" stroke-width="2"/>
+<text x="80" y="896" font-family="Georgia,serif" font-size="32" fill="#1c5559">Low tide</text>
+<text x="80" y="935" font-family="Arial,sans-serif" font-size="15" fill="#1c5559" letter-spacing="2">ORIGINAL VECTOR STUDY · 2026</text>
+</svg>
